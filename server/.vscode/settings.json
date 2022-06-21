@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "./stores"
+    ],
+    "cSpell.words": [
+        "Syncer",
+        "apscheduler"
+    ]
+}
